@@ -25,12 +25,45 @@ schools_complete.csv; students_complete.csv
 
 ### Results
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Final Statistics
+
+- District Stats
+
+![District_Stats](https://user-images.githubusercontent.com/98564776/172382973-75aaaa2e-49da-47f3-b575-7ccd2f28740b.PNG)
+
+- Top Five Performing Schools
+
+![Top5Schools](https://user-images.githubusercontent.com/98564776/172383151-b9e31f1a-2ef7-4e11-9162-0c83ff2d4c96.PNG)
+
+- Bottom Five Performing Schools
+
+![Bottom5Schools](https://user-images.githubusercontent.com/98564776/172383257-6552bfa0-acfb-46b1-bdeb-17e5525dda11.PNG)
+
+- Final Reading Scores by School
+
+![Final_Reading Scores_by_High_School](https://user-images.githubusercontent.com/98564776/172383453-f5526bfa-76fd-438b-8be3-72f6ae7a53f1.PNG)
+
+- Final Math Scores by School
+
+![Final_Math Scores_by_High_School](https://user-images.githubusercontent.com/98564776/172383609-376b3f1b-3aa2-4897-aa6c-965910d5bf56.PNG)
+
+- Final Statistics by School Type
+
+![Final_Stats_by_School_Size](https://user-images.githubusercontent.com/98564776/172383768-d2f212e2-f50a-42f2-ad9a-5ec50e851433.PNG)
+
+- Final Statistics by School Size
+
+![Final_Stats_by_School_Size](https://user-images.githubusercontent.com/98564776/172383882-778f1eee-d4f9-449f-88dc-4f7dc9fbb47b.PNG)
+
+- Final Statistics by Spending Ranges
+
+![Final_Stats_by_Spending_Ranges](https://user-images.githubusercontent.com/98564776/172384009-268d6f46-ad04-483f-a9e2-60b2b80f48a5.PNG)
+
+### Analysis
+
+Charter schools by far outperformed their district counterparts.  Spending cost did not seeme to have much of an effect on performance by school.
+
+
+
+
+
