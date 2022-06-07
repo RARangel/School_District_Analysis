@@ -45,11 +45,11 @@ schools_complete.csv; students_complete.csv
 
 - Final Math Scores by School
 
-![Final_Math Scores_by_High_School](https://user-images.githubusercontent.com/98564776/172383609-376b3f1b-3aa2-4897-aa6c-965910d5bf56.PNG)
+![Final_Math Scores_by_High_School](https://user-images.githubusercontent.com/98564776/172384827-9c75b54f-97cf-4cdc-b6a5-5dd9f63514d9.PNG)
 
 - Final Statistics by School Type
 
-![Final_Stats_by_School_Size](https://user-images.githubusercontent.com/98564776/172383768-d2f212e2-f50a-42f2-ad9a-5ec50e851433.PNG)
+![Final_Stats_by_School_Type](https://user-images.githubusercontent.com/98564776/172384886-34fc3f91-80ba-4dd3-98d0-26de3647176c.PNG)
 
 - Final Statistics by School Size
 
