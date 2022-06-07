@@ -61,7 +61,7 @@ schools_complete.csv; students_complete.csv
 
 ### Analysis
 
-Charter schools by far outperformed their district counterparts.  Spending cost did not seeme to have much of an effect on performance by school.
+Charter schools, which statistiscally are the smaller populated schools, outperformed their district counterparts, in both overall math and reading scores and math and reading passing percentages. Spending cost did not seeme to have much of an effect on performance by school.
 
 
 
